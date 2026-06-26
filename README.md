@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Manav7999/Manav7999/main/assets/banner.png" alt="Manav Dutt's GitHub Banner" width="100%">
+  
 
   <h1>Hey there, I'm Manav Dutt! <img src="https://raw.githubusercontent.com/Manav7999/Manav7999/main/assets/hi.gif" alt="Hi" width="30px"></h1>
   <h3>Full Stack Developer & AI Orchestration Engineer</h3>
